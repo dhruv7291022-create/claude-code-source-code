@@ -1,14 +1,14 @@
 # Claude Code Source Code
 
+Also check out these two cool projects:
+1. [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
+2. [claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
+
 ## Main Projects
 
 ### [777genius/claude-code-working](https://github.com/777genius/claude-code-working)
 
 ### [777genius/claude-code-source-code-full](https://github.com/777genius/claude-code-source-code-full)
-
-Also check out these two cool projects:
-1. [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
-2. [claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
 
 The full source code for this project has moved to:
 
